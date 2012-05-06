@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-03-19T02:21:53.495637Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com/test/unit"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com"
+   revision="18"/>
+<entry
+   committed-rev="1"
+   name="user_test.rb"
+   text-time="2006-03-25T20:40:28.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="7dc3e0184b7e618da5e2cb4e624604e8"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rating_test.rb"
+   text-time="2006-03-25T20:40:28.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="771cabe16f7080baf2b3175c7db8a311"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="message_test.rb"
+   text-time="2006-03-25T20:40:28.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="55a7e0838a987e5df1553947c1d630e8"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="channel_test.rb"
+   text-time="2006-03-25T20:40:29.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="23116a4f8f1c10d1e42a19a4f239e5fc"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="idea_mailer_test.rb"
+   text-time="2006-03-25T20:40:29.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="912d64458eb899f6c8ec6a362c0debb0"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:28.000000Z"/>
+</wc-entries>

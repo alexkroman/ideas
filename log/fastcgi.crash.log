@@ -1,0 +1,190 @@
+# Logfile created on Sat Mar 25 13:09:32 PST 2006 by logger.rb/1.5.2.4
+[25/Mar/2006:13:09:32 :: 8937] starting
+[25/Mar/2006:13:09:32 :: 8936] starting
+[25/Mar/2006:13:10:09 :: 8937] asked to terminate immediately
+[25/Mar/2006:13:10:09 :: 8937] terminated by explicit exit
+[25/Mar/2006:13:10:09 :: 8936] asked to terminate immediately
+[25/Mar/2006:13:10:09 :: 8936] terminated by explicit exit
+[25/Mar/2006:13:11:06 :: 8960] starting
+[25/Mar/2006:13:11:06 :: 8961] starting
+[25/Mar/2006:13:37:26 :: 8961] asked to terminate immediately
+[25/Mar/2006:13:37:26 :: 8961] asked to terminate immediately
+[25/Mar/2006:13:37:26 :: 8960] asked to terminate immediately
+[25/Mar/2006:13:37:26 :: 8960] asked to terminate immediately
+[25/Mar/2006:13:38:02 :: 9014] starting
+[25/Mar/2006:13:38:03 :: 9015] starting
+[25/Mar/2006:14:37:38 :: 9015] asked to terminate immediately
+[25/Mar/2006:14:37:38 :: 9015] terminated by explicit exit
+[25/Mar/2006:14:37:38 :: 9014] asked to terminate immediately
+[25/Mar/2006:14:37:38 :: 9014] terminated by explicit exit
+[25/Mar/2006:14:38:03 :: 9084] starting
+[25/Mar/2006:14:38:03 :: 9085] starting
+[25/Mar/2006:14:39:51 :: 9085] asked to terminate immediately
+[25/Mar/2006:14:39:51 :: 9085] terminated by explicit exit
+[25/Mar/2006:14:39:51 :: 9084] asked to terminate immediately
+[25/Mar/2006:14:39:51 :: 9084] terminated by explicit exit
+[25/Mar/2006:14:40:11 :: 9091] starting
+[25/Mar/2006:14:40:12 :: 9092] starting
+[25/Mar/2006:14:52:51 :: 9092] asked to terminate immediately
+[25/Mar/2006:14:52:51 :: 9092] asked to terminate immediately
+[25/Mar/2006:14:52:51 :: 9091] asked to terminate immediately
+[25/Mar/2006:14:52:51 :: 9091] asked to terminate immediately
+[25/Mar/2006:14:53:12 :: 9110] starting
+[25/Mar/2006:14:53:12 :: 9111] starting
+[25/Mar/2006:14:58:17 :: 9111] asked to terminate immediately
+[25/Mar/2006:14:58:17 :: 9111] asked to terminate immediately
+[25/Mar/2006:14:58:17 :: 9110] asked to terminate immediately
+[25/Mar/2006:14:58:17 :: 9110] asked to terminate immediately
+[25/Mar/2006:14:58:38 :: 9120] starting
+[25/Mar/2006:14:58:38 :: 9121] starting
+[25/Mar/2006:14:59:01 :: 9121] asked to terminate immediately
+[25/Mar/2006:14:59:01 :: 9121] terminated by explicit exit
+[25/Mar/2006:14:59:01 :: 9120] asked to terminate immediately
+[25/Mar/2006:14:59:01 :: 9120] terminated by explicit exit
+[25/Mar/2006:14:59:21 :: 9127] starting
+[25/Mar/2006:14:59:21 :: 9128] starting
+[25/Mar/2006:15:00:20 :: 9128] asked to terminate immediately
+[25/Mar/2006:15:00:20 :: 9128] terminated by explicit exit
+[25/Mar/2006:15:00:20 :: 9127] asked to terminate immediately
+[25/Mar/2006:15:00:20 :: 9127] terminated by explicit exit
+[25/Mar/2006:15:00:39 :: 9134] starting
+[25/Mar/2006:15:00:39 :: 9135] starting
+[25/Mar/2006:15:02:09 :: 9135] asked to terminate immediately
+[25/Mar/2006:15:02:09 :: 9135] terminated by explicit exit
+[25/Mar/2006:15:02:09 :: 9134] asked to terminate immediately
+[25/Mar/2006:15:02:09 :: 9134] terminated by explicit exit
+[25/Mar/2006:15:02:28 :: 9144] starting
+[25/Mar/2006:15:02:29 :: 9145] starting
+[25/Mar/2006:15:14:11 :: 9145] asked to terminate immediately
+[25/Mar/2006:15:14:11 :: 9145] asked to terminate immediately
+[25/Mar/2006:15:14:11 :: 9144] asked to terminate immediately
+[25/Mar/2006:15:14:11 :: 9144] asked to terminate immediately
+[25/Mar/2006:15:14:33 :: 9157] starting
+[25/Mar/2006:15:14:33 :: 9158] starting
+[25/Mar/2006:16:23:44 :: 9158] asked to terminate immediately
+[25/Mar/2006:16:23:44 :: 9158] terminated by explicit exit
+[25/Mar/2006:16:23:44 :: 9157] asked to terminate immediately
+[25/Mar/2006:16:23:44 :: 9157] terminated by explicit exit
+[25/Mar/2006:16:23:44 :: 9158] asked to terminate immediately
+[25/Mar/2006:16:24:09 :: 9277] starting
+[25/Mar/2006:16:24:10 :: 9278] starting
+[26/Mar/2006:08:54:55 :: 9278] asked to terminate immediately
+[26/Mar/2006:08:54:55 :: 9278] asked to terminate immediately
+[26/Mar/2006:08:54:55 :: 9277] asked to terminate immediately
+[26/Mar/2006:08:54:55 :: 9277] asked to terminate immediately
+[26/Mar/2006:08:55:19 :: 9951] starting
+[26/Mar/2006:08:55:19 :: 9952] starting
+[26/Mar/2006:08:56:50 :: 9952] asked to terminate immediately
+[26/Mar/2006:08:56:50 :: 9952] terminated by explicit exit
+[26/Mar/2006:08:56:50 :: 9951] asked to terminate immediately
+[26/Mar/2006:08:56:50 :: 9951] terminated by explicit exit
+[26/Mar/2006:08:57:09 :: 9962] starting
+[26/Mar/2006:08:57:09 :: 9961] starting
+[26/Mar/2006:11:48:44 :: 10155] starting
+[26/Mar/2006:11:49:53 :: 10156] starting
+[26/Mar/2006:13:19:46 :: 10155] asked to terminate immediately
+[26/Mar/2006:13:19:46 :: 10155] terminated by explicit exit
+[26/Mar/2006:13:19:46 :: 10156] asked to terminate immediately
+[26/Mar/2006:13:19:46 :: 10156] Dispatcher failed to catch: exit (SystemExit)
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit_now_handler'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:21:in `to_proc'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:110:in `call'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `each_object'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:3:in `remove_subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/dependencies.rb:43:in `remove_subclasses_for'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:57:in `reset_application!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:75:in `reset_after_dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:46:in `dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:141:in `process_request'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:53:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:22:in `process!'
+  /Users/alexkroman/Sites/ideas.alexkroman.com/public/dispatch.fcgi:24
+
+[26/Mar/2006:13:19:47 :: 10156] asked to terminate immediately
+[26/Mar/2006:13:19:47 :: 10156] terminated by explicit exit
+[26/Mar/2006:13:20:11 :: 10306] starting
+[26/Mar/2006:13:20:12 :: 10307] starting
+[26/Mar/2006:13:21:05 :: 10307] asked to terminate immediately
+[26/Mar/2006:13:21:05 :: 10307] terminated by explicit exit
+[26/Mar/2006:13:21:05 :: 10307] asked to terminate immediately
+[26/Mar/2006:13:21:06 :: 10306] asked to terminate immediately
+[26/Mar/2006:13:21:06 :: 10306] Dispatcher failed to catch: exit (SystemExit)
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit_now_handler'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:21:in `to_proc'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:110:in `call'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `each_object'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:3:in `remove_subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/dependencies.rb:43:in `remove_subclasses_for'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:56:in `reset_application!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:75:in `reset_after_dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:46:in `dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:141:in `process_request'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:53:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:22:in `process!'
+  /Users/alexkroman/Sites/ideas.alexkroman.com/public/dispatch.fcgi:24
+
+[26/Mar/2006:13:21:37 :: 10317] starting
+[26/Mar/2006:13:21:37 :: 10318] starting
+[26/Mar/2006:13:22:31 :: 10318] asked to terminate immediately
+[26/Mar/2006:13:22:31 :: 10318] terminated by explicit exit
+[26/Mar/2006:13:22:31 :: 10317] asked to terminate immediately
+[26/Mar/2006:13:22:31 :: 10317] terminated by explicit exit
+[26/Mar/2006:13:22:32 :: 10318] asked to terminate immediately
+[26/Mar/2006:13:23:09 :: 10325] starting
+[26/Mar/2006:13:23:11 :: 10324] starting
+[26/Mar/2006:13:24:07 :: 10325] asked to terminate immediately
+[26/Mar/2006:13:24:07 :: 10325] terminated by explicit exit
+[26/Mar/2006:13:24:07 :: 10324] asked to terminate immediately
+[26/Mar/2006:13:24:07 :: 10324] terminated by explicit exit
+[26/Mar/2006:13:24:07 :: 10325] asked to terminate immediately
+[26/Mar/2006:13:24:52 :: 10331] starting
+[26/Mar/2006:13:24:52 :: 10332] starting
+[26/Mar/2006:13:35:48 :: 10340] starting
+[26/Mar/2006:13:37:02 :: 10340] asked to terminate immediately
+[26/Mar/2006:13:37:02 :: 10340] terminated by explicit exit
+[26/Mar/2006:13:37:02 :: 10331] asked to terminate immediately
+[26/Mar/2006:13:37:02 :: 10331] terminated by explicit exit
+[26/Mar/2006:13:37:33 :: 10350] starting
+[26/Mar/2006:13:37:34 :: 10349] starting
+[26/Mar/2006:13:42:22 :: 10350] asked to terminate immediately
+[26/Mar/2006:13:42:22 :: 10350] terminated by explicit exit
+[26/Mar/2006:13:42:22 :: 10349] asked to terminate immediately
+[26/Mar/2006:13:42:22 :: 10349] terminated by explicit exit
+[26/Mar/2006:13:42:22 :: 10349] asked to terminate immediately
+[26/Mar/2006:13:43:03 :: 10377] starting
+[26/Mar/2006:13:43:03 :: 10376] starting
+[26/Mar/2006:13:53:39 :: 10377] asked to terminate immediately
+[26/Mar/2006:13:53:39 :: 10377] terminated by explicit exit
+[26/Mar/2006:13:53:39 :: 10376] asked to terminate immediately
+[26/Mar/2006:13:53:39 :: 10376] terminated by explicit exit
+[26/Mar/2006:13:53:39 :: 10376] asked to terminate immediately
+[26/Mar/2006:13:54:21 :: 10396] starting
+[26/Mar/2006:13:54:22 :: 10395] starting
+[26/Mar/2006:14:23:59 :: 10396] asked to terminate immediately
+[26/Mar/2006:14:23:59 :: 10396] terminated by explicit exit
+[26/Mar/2006:14:23:59 :: 10395] asked to terminate immediately
+[26/Mar/2006:14:23:59 :: 10395] terminated by explicit exit
+[26/Mar/2006:14:23:59 :: 10396] asked to terminate immediately
+[26/Mar/2006:14:23:59 :: 10395] asked to terminate immediately
+[20/Aug/2006:09:12:55 :: 1245] starting
+[20/Aug/2006:09:12:55 :: 1246] starting
+[20/Aug/2006:09:17:11 :: 1246] asked to terminate immediately
+[20/Aug/2006:09:17:11 :: 1246] terminated by explicit exit
+[20/Aug/2006:09:17:11 :: 1245] asked to terminate immediately
+[20/Aug/2006:09:17:11 :: 1245] terminated by explicit exit
+[20/Aug/2006:09:17:27 :: 1269] starting
+[20/Aug/2006:09:17:27 :: 1270] starting

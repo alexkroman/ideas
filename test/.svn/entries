@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-03-19T02:21:53.495637Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com/test"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com"
+   revision="18"/>
+<entry
+   name="unit"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="test_helper.rb"
+   text-time="2006-03-25T20:40:30.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="fc4d849e28f089141debb18b22058277"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:29.000000Z"/>
+<entry
+   name="functional"
+   kind="dir"/>
+<entry
+   name="fixtures"
+   kind="dir"/>
+<entry
+   name="mocks"
+   kind="dir"/>
+</wc-entries>

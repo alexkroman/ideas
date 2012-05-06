@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12"
+   name=""
+   committed-date="2006-03-19T16:38:35.598716Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com/app/views/idea_mailer"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com"
+   revision="18"/>
+<entry
+   committed-rev="27"
+   name="welcome.rhtml"
+   text-time="2006-03-26T00:30:46.000000Z"
+   committed-date="2006-03-26T00:37:12.379930Z"
+   checksum="4d9d47c93ad43e8155520ecb07d0ef15"
+   last-author="alexkroman"
+   kind="file"
+   revision="27"/>
+<entry
+   committed-rev="28"
+   name="invitation.rhtml"
+   text-time="2006-03-26T16:32:28.000000Z"
+   committed-date="2006-03-26T16:51:31.421566Z"
+   checksum="f248efa5caf9f72f0500acfb913edd1c"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:32.000000Z"
+   revision="28"/>
+</wc-entries>

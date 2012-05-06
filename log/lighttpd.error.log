@@ -1,0 +1,131 @@
+2006-03-25 13:07:58: (log.c.75) server started 
+2006-03-25 13:08:22: (log.c.135) server stopped 
+2006-03-25 13:09:05: (log.c.75) server started 
+2006-03-25 13:10:08: (log.c.135) server stopped 
+2006-03-25 13:10:17: (log.c.75) server started 
+2006-03-25 13:10:33: (log.c.135) server stopped 
+2006-03-25 13:10:39: (log.c.75) server started 
+2006-03-25 13:37:25: (log.c.135) server stopped 
+2006-03-25 13:37:27: (log.c.75) server started 
+2006-03-25 14:37:37: (log.c.135) server stopped 
+2006-03-25 14:37:41: (log.c.75) server started 
+2006-03-25 14:38:05: (connections.c.1383) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-03-25 14:38:05: (connections.c.1385) returning the original status 404 
+2006-03-25 14:38:05: (connections.c.1387) If this is a rails app: check your production.log 
+2006-03-25 14:39:22: (connections.c.1383) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-03-25 14:39:22: (connections.c.1385) returning the original status 404 
+2006-03-25 14:39:22: (connections.c.1387) If this is a rails app: check your production.log 
+2006-03-25 14:39:28: (connections.c.1383) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-03-25 14:39:28: (connections.c.1385) returning the original status 404 
+2006-03-25 14:39:28: (connections.c.1387) If this is a rails app: check your production.log 
+2006-03-25 14:39:51: (log.c.135) server stopped 
+2006-03-25 14:39:52: (log.c.75) server started 
+2006-03-25 14:52:50: (log.c.135) server stopped 
+2006-03-25 14:52:52: (log.c.75) server started 
+2006-03-25 14:58:16: (log.c.135) server stopped 
+2006-03-25 14:58:18: (log.c.75) server started 
+2006-03-25 14:59:00: (log.c.135) server stopped 
+2006-03-25 14:59:02: (log.c.75) server started 
+2006-03-25 15:00:20: (log.c.135) server stopped 
+2006-03-25 15:00:21: (log.c.75) server started 
+2006-03-25 15:02:08: (log.c.135) server stopped 
+2006-03-25 15:02:09: (log.c.75) server started 
+2006-03-25 15:14:11: (log.c.135) server stopped 
+2006-03-25 15:14:12: (log.c.75) server started 
+2006-03-25 16:23:43: (log.c.135) server stopped 
+2006-03-25 16:23:46: (log.c.75) server started 
+2006-03-26 08:54:55: (log.c.135) server stopped 
+2006-03-26 08:54:57: (log.c.75) server started 
+2006-03-26 08:56:49: (log.c.135) server stopped 
+2006-03-26 08:56:50: (log.c.75) server started 
+2006-03-26 11:27:26: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:27:26: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:27:29: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:27:29: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:27:32: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:27:32: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:27:38: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:27:38: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:27:41: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:27:41: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:27:49: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:27:49: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:27:51: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:27:51: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:28:39: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:28:39: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:28:41: (mod_fastcgi.c.2373) FastCGI-stderr: /Users/alexkroman/Sites/ideas.alexkroman.com/public/../config/../app/models/message.rb:16: warning: found = in conditional, should be ==
+ 
+2006-03-26 11:28:41: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-26 11:48:22: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 9962 fcgi-fd: 10 remote-fd: 11 
+2006-03-26 11:48:22: (mod_fastcgi.c.3017) child exited, pid: 9962 status: 1 
+2006-03-26 11:48:22: (mod_fastcgi.c.3064) response not sent, request sent: 1135 connection-fd: 11 fcgi-fd: 10 
+2006-03-26 11:48:22: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 10155 fcgi-fd: 13 remote-fd: 12 
+2006-03-26 11:48:22: (mod_fastcgi.c.3064) response not sent, request sent: 1137 connection-fd: 12 fcgi-fd: 13 
+2006-03-26 11:48:22: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 10155 fcgi-fd: 9 remote-fd: 8 
+2006-03-26 11:48:22: (mod_fastcgi.c.3064) response not sent, request sent: 1145 connection-fd: 8 fcgi-fd: 9 
+2006-03-26 11:49:31: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 9961 fcgi-fd: 14 remote-fd: 16 
+2006-03-26 11:49:31: (mod_fastcgi.c.3017) child exited, pid: 9961 status: 1 
+2006-03-26 11:49:31: (mod_fastcgi.c.3064) response not sent, request sent: 1132 connection-fd: 16 fcgi-fd: 14 
+2006-03-26 11:49:31: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 10156 fcgi-fd: 20 remote-fd: 17 
+2006-03-26 11:49:31: (mod_fastcgi.c.3064) response not sent, request sent: 1096 connection-fd: 17 fcgi-fd: 20 
+2006-03-26 11:49:31: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 10156 fcgi-fd: 22 remote-fd: 21 
+2006-03-26 11:49:31: (mod_fastcgi.c.3064) response not sent, request sent: 1096 connection-fd: 21 fcgi-fd: 22 
+2006-03-26 11:49:31: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 10156 fcgi-fd: 28 remote-fd: 27 
+2006-03-26 11:49:31: (mod_fastcgi.c.3064) response not sent, request sent: 1096 connection-fd: 27 fcgi-fd: 28 
+2006-03-26 11:49:31: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 10156 fcgi-fd: 30 remote-fd: 29 
+2006-03-26 11:49:31: (mod_fastcgi.c.3064) response not sent, request sent: 1096 connection-fd: 29 fcgi-fd: 30 
+2006-03-26 13:19:45: (log.c.135) server stopped 
+2006-03-26 13:19:49: (log.c.75) server started 
+2006-03-26 13:21:05: (log.c.135) server stopped 
+2006-03-26 13:21:06: (log.c.75) server started 
+2006-03-26 13:22:31: (log.c.135) server stopped 
+2006-03-26 13:22:33: (log.c.75) server started 
+2006-03-26 13:24:06: (log.c.135) server stopped 
+2006-03-26 13:24:08: (log.c.75) server started 
+2006-03-26 13:35:15: (mod_fastcgi.c.2263) unexpected end-of-file (perhaps the fastcgi process died): pid: 10332 fcgi-fd: 9 remote-fd: 8 
+2006-03-26 13:35:15: (mod_fastcgi.c.3017) child exited, pid: 10332 status: 1 
+2006-03-26 13:35:15: (mod_fastcgi.c.3064) response not sent, request sent: 775 connection-fd: 8 fcgi-fd: 9 
+2006-03-26 13:37:02: (log.c.135) server stopped 
+2006-03-26 13:37:03: (log.c.75) server started 
+2006-03-26 13:42:21: (log.c.135) server stopped 
+2006-03-26 13:42:23: (log.c.75) server started 
+2006-03-26 13:53:39: (log.c.135) server stopped 
+2006-03-26 13:53:41: (log.c.75) server started 
+2006-03-26 14:23:58: (log.c.135) server stopped 
+2006-08-20 09:12:34: (log.c.75) server started 
+2006-08-20 09:12:58: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:12:58: (connections.c.1396) returning the original status 404 
+2006-08-20 09:12:58: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-20 09:17:07: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:17:07: (connections.c.1396) returning the original status 404 
+2006-08-20 09:17:07: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-20 09:17:11: (log.c.135) server stopped 
+2006-08-20 09:17:12: (log.c.75) server started 
+2006-08-20 09:17:30: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:17:30: (connections.c.1396) returning the original status 404 
+2006-08-20 09:17:30: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-20 09:17:52: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:17:52: (connections.c.1396) returning the original status 404 
+2006-08-20 09:17:52: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-20 09:17:55: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:17:55: (connections.c.1396) returning the original status 404 
+2006-08-20 09:17:55: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-20 09:18:08: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:18:08: (connections.c.1396) returning the original status 404 
+2006-08-20 09:18:08: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-20 09:18:15: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:18:15: (connections.c.1396) returning the original status 404 
+2006-08-20 09:18:15: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-20 09:19:20: (connections.c.1394) Warning: Either the error-handler returned status 404 or the error-handler itself was not found: dispatch.fcgi 
+2006-08-20 09:19:20: (connections.c.1396) returning the original status 404 
+2006-08-20 09:19:20: (connections.c.1398) If this is a rails app: check your production.log 
+2006-08-25 22:27:17: (log.c.135) server stopped 

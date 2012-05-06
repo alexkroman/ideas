@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2006-03-19T15:47:48.162022Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com/db"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/ideas.alexkroman.com"
+   revision="18"/>
+<entry
+   committed-rev="44"
+   name="schema.mysql.sql"
+   text-time="2006-03-26T22:15:00.000000Z"
+   committed-date="2006-03-26T22:17:06.493947Z"
+   checksum="8fb825895f631425f144060dc366f930"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-25T20:40:34.000000Z"
+   revision="44"/>
+</wc-entries>
